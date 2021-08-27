@@ -792,7 +792,7 @@ p {
     top: 0;
     height: 100%;
     width: 50%;
-    background-image: url(../images/banner-1.jpg);
+    background-image: url(../images2/bgimg/Capture.png);
     background-size: cover;
     background-position: right center;
     background-repeat: no-repeat;
@@ -2145,6 +2145,14 @@ p {
     padding-bottom: 130px; }
     .team-2-area.about-team.team-page {
       padding-top: 90px; }
+
+      .teamMoto > span{
+        color: #974cf8;
+      }
+
+      .teamPara{
+        color: #974cf8;
+      }
 
 /*===========================
     7.WORKING PROCESS css 
